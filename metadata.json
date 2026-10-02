@@ -1,0 +1,6 @@
+{
+  "name": "کالیستن",
+  "description": "مربی شخصی کالیستنیکس، برنامه‌ریزی تمرین، پیشرفت، مهارت‌ها و ریکاوری (Kalisten)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
